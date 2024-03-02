@@ -1,6 +1,5 @@
-/dirección.pdf
-/4barras.pdf
-/cálculos_sus.pdf
-/cálculos_esfuerzos_sus.pdf
 /__pycache__
-/desktop.ini
+/resultados
+
+*.ini
+*.pdf
