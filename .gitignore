@@ -1,5 +1,7 @@
 /__pycache__
 /resultados
 
+*/*.ini
+
 *.ini
 *.pdf
