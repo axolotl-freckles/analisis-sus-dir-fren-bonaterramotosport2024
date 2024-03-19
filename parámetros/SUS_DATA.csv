@@ -1,2 +1,2 @@
-name,m2,m3,m4,e3_com_angle_offset,e3_com_magnitude_offset,traction_angle_offset,traction_magnitude_offset
-FRONT_L, 1.0, 8.37709, 1.0, 0.3902843081, 128.17212, -3.5326093089517907, 180.44234778055866
+name,m2,m3,m4,e3_com_angle_offset,e3_com_magnitude_offset,traction_angle_offset,traction_magnitude_offset,normal
+FRONT_L, 1.0, 8.37709, 1.0, 0.3902843081, 128.17212, -3.5326093089517907, 180.44234778055866,441.3
